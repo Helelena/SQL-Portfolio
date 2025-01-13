@@ -13,11 +13,6 @@ Each project highlights different techniques and solutions applied to real-world
 - Creating and managing database schemas
 - Handling missing data and data normalization
 
-## Highlighted Projects
-- TO BE CONTINUED
-  
-
-
 
 ### Tools
 - SQL Databases: SQLite Studio, MySQL
